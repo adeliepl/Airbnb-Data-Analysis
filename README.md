@@ -16,6 +16,6 @@ This project analyzes Airbnb listings to explore profitability trends, neighborh
 - **Jupyter Notebook**
 
 ## 🚀 How to Run
-1. Clone the repository:  
+Clone the repository:  
    ```sh
    git clone https://github.com/yourusername/Airbnb-Data-Analysis.git
